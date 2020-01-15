@@ -2,7 +2,7 @@
   <img src="https://github.com/infinitered/nsfwjs/raw/master/_art/nsfwjs_logo.jpg" alt="NSFWJS Logo" width="400" />
   <h2 align="center">Client-side indecent content checking</h2>
 </p>
-
+哈哈
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
 [![Travis CI](https://travis-ci.com/infinitered/nsfwjs.svg?branch=master)]()
 
