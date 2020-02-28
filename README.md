@@ -2,9 +2,12 @@
   <img src="https://github.com/infinitered/nsfwjs/raw/master/_art/nsfwjs_logo.jpg" alt="NSFWJS Logo" width="400" />
   <h2 align="center">Client-side indecent content checking</h2>
 </p>
+mm
 哈哈
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
 [![Travis CI](https://travis-ci.com/infinitered/nsfwjs.svg?branch=master)]()
+didid
+dd
 
 A simple JavaScript library to help you quickly identify unseemly images; all in the client's browser. NSFWJS isn't perfect, but it's pretty accurate (~90% from our test set of 15,000 test images)... and it's getting more accurate all the time.
 
